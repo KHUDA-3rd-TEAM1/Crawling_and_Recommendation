@@ -1,5 +1,5 @@
 ## 구조
-- extColor: 색상 추출 코드 작성 부분
+- ext_recColor: 색상 추출, 추천 코드 작성 부분
 - selenium_crawling: 크롤링 할 때 사용한 코드와 데이터 있음
     - data.csv: 이미지 경로, 코디 설명, 코디 제목 포함
     - image/: 이미지 폴더
